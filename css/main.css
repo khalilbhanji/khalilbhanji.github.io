@@ -1,5 +1,6 @@
 <style>
+{background-color: powderblue;}
 body {background-color: powderblue;font-family: verdana;rotate: 30deg;}
-h1   {color: blue;font-family: courier;}
-img {border-style: dotted;}
+h1   {color: indigo;font-family: courier;}
+img {border-style: dotted; border-color: indigo;}
 </style>
