@@ -1,5 +1,7 @@
 <style>
-body {background-image: src="https://khalilbhanji.github.io/images/Profile.jpeg"; rotate: 30deg;}
+body {
+  background-image: src="https://khalilbhanji.github.io/images/Profile.jpeg";
+}
 p {font-family: verdana;}
 h1   {color: #4B0082; font-family: courier;}
 img {border-style: dotted; border-color: #4B0082;}
