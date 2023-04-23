@@ -1,6 +1,6 @@
 #grad1 {
   background-image: linear-gradient(white, violet);
-  height:250vh;
+  height:100%;
 }
 
 body {font-family: verdana; color: blue;}
