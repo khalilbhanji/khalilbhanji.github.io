@@ -1,5 +1,7 @@
 <style>
-#grad {background-image: linear-gradient(white, violet);}
+#grad {height:100vh;
+  background-image: linear-gradient(white, violet);
+}
 body {font-family: verdana; color: blue;}
 p {font-family: verdana;}
 h1   {color: #4B0082; font-family: courier;}
