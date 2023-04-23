@@ -1,6 +1,7 @@
 <style>
-div {height:100vh;
+#grad1 {
   background-image: linear-gradient(white, violet);
+  height:100vh;
 }
 body {font-family: verdana; color: blue;}
 p {font-family: verdana;}
