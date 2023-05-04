@@ -4,7 +4,7 @@
   height:3000px;
 }
 
-
+li {color:black border 12px double black;} 
 p {font-family: arial color: white border: 5px solid white;}
 h1   {color: white; font-family: courier border: 5px solid white;}
 img {border-style: dotted; border-color: white;}
