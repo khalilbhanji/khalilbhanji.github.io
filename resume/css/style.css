@@ -3,6 +3,7 @@
  width:100%;
   height:2300px;
 }
+a {color: white; font-family: arial;}
 li {color: white; font-family: arial;}
 li {border-style: double; border-color: black;}
 p {color: white; font-family: arial;}
