@@ -4,9 +4,9 @@
   height:2000px;
 }
 section {border-style: dotted; border-color: white;}
-li {font-family: arial color: white;}
+li {color: white; font-family: arial;}
 li {border-style: dotted; border-color: white;}
-p {font-family: arial color: white ;}
+p {color: white; font-family: arial;}
 h1 {color: white; font-family: verdana;}
 h1 {border-style: dotted; border-color: white;}
 img {border-style: dotted; border-color: white;}
