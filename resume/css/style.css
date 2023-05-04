@@ -5,8 +5,8 @@
 }
 section {border-style: dotted; border-color: white;}
 li {color: white; font-family: arial;}
-li {border-style: dotted; border-color: white;}
+li {border-style: double; border-color: black;}
 p {color: white; font-family: arial;}
 h1 {color: white; font-family: verdana;}
-h1 {border-style: dotted; border-color: white;}
-img {border-style: dotted; border-color: white;}
+h1 {border-style: solid; border-color: white;}
+img {border-style: dotted; border-color: black;}
