@@ -1,7 +1,7 @@
 #grad1 {
   background-image: linear-gradient(white, violet);
  width:100%;
-  height:3000px;
+  height:2000px;
 }
 
 body {font-family: verdana; color: blue;}
