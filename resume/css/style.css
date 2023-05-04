@@ -3,7 +3,7 @@
  width:100%;
   height:2000px;
 }
-section {border-style: dotted; border-color: white;}
+section {border-style: dotted; border-color: black;}
 li {color: white; font-family: arial;}
 li {border-style: double; border-color: black;}
 p {color: white; font-family: arial;}
