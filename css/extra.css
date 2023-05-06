@@ -3,7 +3,7 @@
  width:1000px;
   height:2000px;
 }
-table {border: 5px dotted;}
+tr:nth-child(even) {background-color: #f2f2f2;}
 th, td {
   text-align: left;
 }
