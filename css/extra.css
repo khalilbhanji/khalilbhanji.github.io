@@ -3,7 +3,7 @@
  width:1000px;
   height:2000px;
 }
-table {text-align:left;}
+table {border: 5px dotted;}
 th, td {
   text-align: left;
 }
